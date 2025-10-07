@@ -88,7 +88,7 @@ Transition from customer service background to entry-level Cloud Engineer or Pyt
 
 ### Coursera (Partner-Funded Subscription)
 
-- AWS Fundamentals Specialization
+- AWS Solutions Architect- Associate Specialization
 - Google IT Automation with Python Professional Certificate
 - IBM AI Engineering Professional Certificate
 
@@ -116,7 +116,7 @@ Earn AWS Solutions Architect Associate certification and deploy production-ready
 **Daily Tasks:**
 
 - Read 25-30 pages: "AWS Solutions Architect Study Guide"
-- Complete: Coursera AWS Fundamentals Course 1 (daily units)
+- Complete: Coursera AWS Solutions Architect- Associate Specialization (daily units)
 - Hands-on: AWS Free Tier practice with services from reading
 - Create: Obsidian notes with service summaries + architecture diagrams
 - Build: 5 flashcards on key concepts
@@ -138,7 +138,7 @@ Earn AWS Solutions Architect Associate certification and deploy production-ready
 **Daily Tasks:**
 
 - Read 25-30 pages: Study guide (database and networking chapters)
-- Complete: Coursera AWS Fundamentals Course 2
+- Complete: Coursera AWS Solutions Architect- Associate Specialization
 - Hands-on: Deploy RDS instance, configure multi-AZ, set up read replicas
 - Practice: VPC peering, security groups, NACLs
 - Review: Take chapter quizzes, document mistakes in Obsidian
@@ -160,7 +160,7 @@ Earn AWS Solutions Architect Associate certification and deploy production-ready
 **Daily Tasks:**
 
 - Read 25-30 pages: Study guide (serverless and security chapters)
-- Complete: Coursera AWS Fundamentals Courses 3-4
+- Complete: Coursera AWS Solutions Architect- Associate Specialization
 - Hands-on: Build serverless API (Lambda + API Gateway + DynamoDB)
 - Practice: S3 bucket policies, IAM roles for Lambda
 - Exam prep: Take first full 65-question practice exam
@@ -203,7 +203,7 @@ Earn AWS Solutions Architect Associate certification and deploy production-ready
 **Month 1 Outcomes:**
 
 - ✅ AWS Solutions Architect Associate certification
-- ✅ Cloud Resume Challenge (AWS) production-deployed
+- ✅ Cloud Resume Challenge (AWS) production-deployed (devops,solutions architect,security mods)
 - ✅ Coursera AWS Fundamentals Specialization complete
 - ✅ 20-30 GitHub commits
 
@@ -316,7 +316,7 @@ Master Python programming, SQL databases, and cloud automation. Deploy Azure clo
 
 **Deliverables:**
 
-- [ ] Cloud Resume (Azure) deployed with custom domain
+- [ ] Cloud Resume (Azure) deployed with custom domain (devops, data engineer, ai engineer mods)
 - [ ] Personal finance API with CRUD operations
 - [ ] Multi-cloud cost monitoring tool
 - [ ] Google IT Automation certificate earned
